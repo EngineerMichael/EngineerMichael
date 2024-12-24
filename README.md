@@ -11,7 +11,7 @@
 
 🤔 Studying, exploring and working on codes
 
-💬 Ask me anything via Linkedin
+💬 Ask me anything via Linkedin or GitHub Discussions
 
 📫 Living in New York...
 
