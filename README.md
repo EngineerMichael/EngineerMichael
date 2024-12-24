@@ -27,7 +27,7 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - 🌱 I’m currently learning **GraphQL** and **Kubernetes**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
 - 💬 Ask me about **JavaScript, Python, AWS, and Docker**
-- 📫 How to reach me: [michael@example.com](mailto:michael@example.com)
+- 📫 How to reach me: [michael@example.com](mailto:michaelkirkova@gmail.com)
 - ⚡ Fun fact: In my free time, I enjoy hiking and playing the guitar
 
 ## Skills
