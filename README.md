@@ -9,11 +9,11 @@ Connect with Me
 
 🧠 Undergraduate B.Sc.Computer Science - Undergraduate B.Sc.Electrical & Computer Engineering
 
-🤔 studying, exploring and working on codes
+🤔 Studying, exploring and working on codes
 
 💬 Ask me anything via Linkedin
 
-📫 living in New York...
+📫 Living in New York...
 
 ## 🚀 About Me
 
@@ -32,6 +32,10 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - **Python**
 - **Java**
 - **C#**
+- **C**
+- **C++**
+- **VHDL**
+- **MATLAB**
 
 ### Frameworks and Libraries
 - **React**
