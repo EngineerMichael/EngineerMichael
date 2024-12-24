@@ -4,7 +4,9 @@ EngineerMichael/README.md
 
 # Hi, I'm Michael! 👋
 
-portfolio LinkedIn
+portfolio ## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/engineermichael/)
 
 👩‍💻 I'm currently working for GE Aerospace
 
