@@ -7,7 +7,7 @@
 
 👩‍💻 I'm currently working for GE Aerospace (General Electric Aerospace) 
 
-![image](https://github.com/user-attachments/assets/96d12d8f-f441-435b-82f1-7e216f0f5fd7)
+![image](https://github.com/user-attachments/assets/73d59f2e-e87a-40ae-98bc-59a1e3fda0df)
 
 🧠 Undergraduate B.Sc.Computer Science - Undergraduate B.Sc.Electrical & Computer Engineering
 
