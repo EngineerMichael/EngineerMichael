@@ -1,5 +1,5 @@
 # EngineerMichael-README.md
-EngineerMihcael/README.md
+EngineerMichael/README.md
 Hi, I'm Michael! 👋
 portfolio linkedin
 
