@@ -25,7 +25,7 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - 📫 How to reach me: [michaelkirkova@gmail.com](mailto:michaelkirkova@gmail.com)
 - ⚡ Fun fact: In my free time, I enjoy hiking and playing the guitar
 
-## Skills
+## 🛠 Skills
 
 ### Programming Languages
 - **JavaScript**
