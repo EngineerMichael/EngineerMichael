@@ -1,6 +1,3 @@
-# EngineerMichael-README.md
-EngineerMichael/README.md
-
 
 # Hi, I'm Michael! 👋
 
