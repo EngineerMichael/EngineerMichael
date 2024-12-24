@@ -1,5 +1,5 @@
 
-# Hi, I'm Michael! 👋
+# Hi there, I'm Michael 👋
 
 Connect with Me
 
@@ -15,11 +15,7 @@ Connect with Me
 
 📫 living in New York...
 
-🚀 About Me
-
-# Hi there, I'm Michael 👋
-
-## About Me
+## 🚀 About Me
 
 I'm a passionate software engineer with a strong background in full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
 
