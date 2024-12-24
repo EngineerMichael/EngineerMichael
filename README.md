@@ -3,7 +3,8 @@ EngineerMichael/README.md
 
 
 Hi, I'm Michael! 👋
-portfolio linkedin
+
+portfolio LinkedIn
 
 👩‍💻 I'm currently working for GE Aerospace
 
