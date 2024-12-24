@@ -23,7 +23,7 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
 - 💬 Ask me about **JavaScript, Python, AWS, and Docker**
 - 📫 How to reach me: [michaelkirkova@gmail.com](mailto:michaelkirkova@gmail.com)
-- ⚡ Fun fact: In my free time, I enjoy cycling, travelling with beautiful european women, hiking and playing the guitar
+- ⚡ Fun fact: In my free time, I enjoy cycling, travelling with beautiful european women, hiking and playing my guitars
 
 ## 🛠 Skills
 
