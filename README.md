@@ -6,7 +6,7 @@ EngineerMichael/README.md
 
 portfolio #Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/michael-k-30a548a9/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/michael-k-30a548a9/)]
 
 👩‍💻 I'm currently working for GE Aerospace
 
