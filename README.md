@@ -60,7 +60,7 @@ A collection of scripts and configurations to automate CI/CD pipelines, infrastr
 
 ## Connect with Me
 
-- [LinkedIn]([(https://www.linkedin.com/in/michael-k-30a548a9/])
+- [LinkedIn][(https://www.linkedin.com/in/michael-k-30a548a9/)]
 - 
 - [GitHub](https://github.com/EngineerMichael)
 
