@@ -5,7 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/michael-k-30a548a9/)
 
-👩‍💻 I'm currently working for GE Aerospace
+👩‍💻 I'm currently working for GE Aerospace (General Electric Aerospace ![image](https://github.com/user-attachments/assets/cff2a8e4-28e9-438e-80b5-86ef7cedc44a)
+)
 
 🧠 Undergraduate B.Sc.Computer Science - Undergraduate B.Sc.Electrical & Computer Engineering
 
