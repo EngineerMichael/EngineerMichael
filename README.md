@@ -1,7 +1,7 @@
 
 # Hi there, I'm Michael 👋
 
-Connect with Me
+👩‍💻 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/michael-k-30a548a9/)
 
@@ -54,7 +54,7 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - **PostgreSQL**
 - **MongoDB**
 
-## Projects
+## 👩‍💻 Projects
 
 ### [Project 1: Awesome Web App](https://github.com/EngineerMichael/awesome-web-app)
 A full-stack web application built with React and Node.js, featuring user authentication, real-time data updates, and responsive design.
