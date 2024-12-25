@@ -38,23 +38,24 @@ I'm a passionate software engineer with a strong background in full-stack develo
 - **C++**
 - **VHDL**
 - **MATLAB**
+- **Kotlin**
+- **HTML**
 
 ### Frameworks and Libraries
 - **React**
 - **Node.js**
-- **Django**
-- **Spring Boot**
+- **Flutter**
 
 ### DevOps and Cloud
 - **AWS**
 - **Docker**
 - **Kubernetes**
-- **CI/CD (Jenkins, GitHub Actions)**
+- **CI/CD (GitHub Actions)**
 
 ### Databases
 - **MySQL**
-- **PostgreSQL**
-- **MongoDB**
+- **NoSQL**
+
 
 ## 👩‍💻 Projects
 
