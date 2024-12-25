@@ -40,7 +40,10 @@ I'm a young, passionate 28 year-old software engineer with an agile focus in ful
 - **MATLAB**
 - **Kotlin**
 - **HTML**
-
+- **XCode**
+- **Swift**
+- **JSON**
+  
 ### Frameworks and Libraries
 - **React**
 - **Node.js**
