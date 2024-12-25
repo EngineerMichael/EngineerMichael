@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with a strong background in full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
+I'm a passionate software engineer with an agile focus in full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
 
 - 🌱 I’m currently learning **GraphQL** and **Kubernetes**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
