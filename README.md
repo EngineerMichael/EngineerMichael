@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/michael-k-30a548a9/)
 
-👩‍💻 I'm currently professionally working for GE Aerospace (General Electric Aerospace) 
+👩‍💻 I'm currently professionally working for GE Aerospace (General Electric Aerospace Company) 
 
 ![image](https://github.com/user-attachments/assets/73d59f2e-e87a-40ae-98bc-59a1e3fda0df)
 
