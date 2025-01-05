@@ -11,7 +11,7 @@
 
 🧠 Undergraduate B.Sc.Computer Science - Undergraduate B.Sc.Electrical & Computer Engineering
 
-🤔 Studying, exploring and working on codes
+🤔 Studying, exploring, and working on codes
 
 💬 Ask me anything via Linkedin or GitHub Discussions
 
@@ -19,13 +19,13 @@
 
 ## 🚀 About Me
 
-I'm a young, passionate 28 year-old software engineer with an agile focus in full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
+I'm a young, passionate 28-year-old software engineer with an agile focus on full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
 
 - 🌱 I’m currently learning **GraphQL** and **Kubernetes**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
 - 💬 Ask me about **JavaScript, Python, AWS, and Docker**
 - 📫 How to reach me: [michaelkirkova@gmail.com](mailto:michaelkirkova@gmail.com)
-- ⚡ Fun fact: In my free time, I enjoy cycling, travelling with my beautiful european women, hiking and playing my unique guitars
+- ⚡ Fun fact: In my free time, I enjoy cycling, traveling with my beautiful European women, hiking, and playing my unique guitars
 
 ## 🛠 Skills
 
@@ -72,4 +72,4 @@ A collection of scripts and configurations to automate CI/CD pipelines, infrastr
   
 - [GitHub](https://github.com/EngineerMichael)
 
-Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate or just say hello. 😊
+Thank you for visiting my profile! Feel free to check out my repositories and contact me if you'd like to collaborate or say hello. 😊
