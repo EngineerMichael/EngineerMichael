@@ -77,3 +77,6 @@ A collection of scripts and configurations to automate CI/CD pipelines, infrastr
 ![API Flowchart Postman](https://github.com/user-attachments/assets/4ac83d78-d869-45f9-9ad6-989298213d59)
 
 Thank you for visiting my profile! Feel free to check out my repositories and contact me if you'd like to collaborate or say hello. 😊
+
+- [StackOverflow](https://stackoverflow.com/users/28923276/michael-kirkova)
+- [UpWork](https://www.upwork.com/freelancers/~0153bd8a96cec3bbd0?viewMode=1)
