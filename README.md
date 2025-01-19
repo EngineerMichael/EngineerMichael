@@ -22,6 +22,7 @@
 I'm a young, passionate 28-year-old software engineer with an agile focus on full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
 
 - 🌱 I’m currently learning **GraphQL** and **Kubernetes**
+- 🤖 Current Exploration: Diving deep into the world of generative AI and its applications<br>
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
 - 💬 Ask me about **JavaScript, Python, AWS, and Docker**
 - 📫 How to reach me: [michaelkirkova@gmail.com](mailto:michaelkirkova@gmail.com)
