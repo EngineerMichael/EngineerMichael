@@ -27,7 +27,8 @@ I'm a young, passionate 28-year-old software engineer with an agile focus on ful
 - 📫 How to reach me: [michaelkirkova@gmail.com](mailto:michaelkirkova@gmail.com)
 - ⚡ Fun fact: In my free time, I enjoy cycling, traveling with my beautiful European women, hiking, and playing my unique guitars
 
-## 🛠 ![image](https://github.com/user-attachments/assets/5ad43396-6b8c-43b0-94c0-651f25bed80c) Skill Set
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Programming Languages
 - **JavaScript**
