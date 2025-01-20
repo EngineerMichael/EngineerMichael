@@ -66,7 +66,7 @@ I'm a young, passionate 28-year-old software engineer with an agile focus on ful
 ### [Project 1: Awesome Web App](https://github.com/EngineerMichael/Project-1-Awesome-Web-App)
 A full-stack web application built with React and Node.js, featuring user authentication, real-time data updates, and responsive design.
 
-### [Project 2: DevOps Automation](https://github.com/EngineerMichael/devops-automation)
+### [Project 2: DevOps Automation]((https://github.com/EngineerMichael/Project-2-DevOps-Automation)
 A collection of scripts and configurations to automate CI/CD pipelines, infrastructure provisioning, and monitoring.
 
 ## Connect with Me
