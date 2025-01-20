@@ -48,6 +48,7 @@ I'm a young, passionate 28-year-old software engineer with an agile focus on ful
 - **React**
 - **Node.js**
 - **Flutter**
+- **Vue.js**
 
 ### DevOps and Cloud
 - **AWS**
