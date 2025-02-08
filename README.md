@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a young, passionate 28-year-old software engineer with an agile focus on full-stack development, cloud computing, and DevOps. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
+I'm a young, passionate 28-year-old software engineer aspiring professional with agile-focus learnings on full-stack development, cloud computing, and DevOps. I love learning to building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
 
 - 🌱 I’m currently learning **GraphQL** and **Kubernetes**
 - 🤖 Current Exploration: Diving deep into the world of generative AI and its applications<br>
