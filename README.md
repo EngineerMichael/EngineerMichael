@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a young, passionate 28-year-old software engineer aspiring professional with agile-focus learnings on full-stack development, cloud computing, and DevOps. I love learning to building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills. I am currently refreshing all my CS knowledge, my primary programming language started first with JAVA and MATLAB code. I have come to the realization I am more familiar with backend development, secondary to frontend development, revision of contribution to legacy code projects and yet to implement commits, pull requests, issues, and code reviews direct import/export from IDEs. APIs and Databases knowledge are in the works I am still learning more everyday. 
+I'm a young, passionate 28-year-old software engineer aspiring professional with agile-focus learnings on full-stack development, cloud computing, and DevOps. I love learning to build scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills. I am currently refreshing all my CS knowledge, my primary programming language started first with JAVA and MATLAB code. I have come to the realization I am more familiar with backend development, secondary to frontend development, revision of contribution to legacy code projects and yet to implement commits, pull requests, generate issues, and code reviews documentation direct import/export from IDEs. APIs and Database knowledge are in the works I am still learning more every day.
 
 - 🌱 I’m currently learning **GraphQL** and **Kubernetes**
 - 🤖 Current Exploration: Diving deep into the world of generative AI and its applications<br>
