@@ -26,7 +26,7 @@ I'm a young, passionate 28-year-old software engineer aspiring professional with
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**
 - 💬 Ask me about **JavaScript, Python, AWS, and Docker**
 - 📫 How to reach me: [michaelkirkova@gmail.com](mailto:michaelkirkova@gmail.com)
-- ⚡ Fun fact: In my free time, I enjoy cycling, traveling with my beautiful European women, hiking, and playing my unique guitars
+- ⚡ Fun fact: In my free time, I enjoy cycling, traveling with my beautiful Nordic European women, hiking, and playing my unique guitars
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
