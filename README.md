@@ -3,7 +3,7 @@
 
 👩‍💻 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/michael-kirkov%C3%A1-%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AA%F0%9F%87%BA-30a548a9/?trk=PROFILE_DROP_DOWN])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/michael-kirkov%C3%A1-%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AA%F0%9F%87%BA-30a548a9])
 
 👩‍💻 I'm currently professionally working for GE Aerospace (General Electric Aerospace Company) 
 
