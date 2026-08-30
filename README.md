@@ -15,7 +15,9 @@
 
 💬 Ask me anything via Linkedin or GitHub Discussions
 
-📫 Living in New York...
+📫 Living In The Nordics Of Europe & Sometimes In The Red States of America...
+
+📫 Was Living New York...
 
 ## 🚀 About Me
 
